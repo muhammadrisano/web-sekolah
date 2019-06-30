@@ -24,7 +24,7 @@
     background-color: #1a72a5;
 }
 .menu-tengah{
-    max-width: 600px;
+    max-width: 630px;
     height: 120px;
     background-color: white;
     margin: -80px auto 10px;
@@ -33,7 +33,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 13px;
     font-weight: bold;
-    
+    padding: 0 5px;
 }
 .menu-tengah img{
     display: inline-block;
